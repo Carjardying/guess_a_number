@@ -31,7 +31,6 @@ function gamePlay (){
         givenNumber = askNumber();
         gamePlay();
     } else {
-        alert("Bravo")
     }
 /*     while(!didIwin(givenNumber)){ //!givenNumber = "givenNumber = false" mais en plus simple
         givenNumber = askNumber();
